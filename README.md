@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://zeinaradwan.github.io/Mobile-Desktop-QR/](https://zeinaradwan.github.io/Mobile-Desktop-QR/)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobiledesktopqrsolution-using-flexbox-and-media-queries-ByCArZ879](https://www.frontendmentor.io/solutions/mobiledesktopqrsolution-using-flexbox-and-media-queries-ByCArZ879)
+- Live Site URL: [https://zeinaradwan.github.io/Mobile-Desktop-QR/]( https://zeinaradwan.github.io/Mobile-Desktop-QR/)
 
 ## My process
 
