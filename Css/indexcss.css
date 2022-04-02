@@ -40,11 +40,16 @@ p{
     font-weight: bold;
     text-align: center
 }
+.box h4{
+    font-size: 32px;
+    color: white;
+    display: inline-block;
+}
+h4 ul{
+    display: contents;
+}
 ul{
     list-style: none;
-    font-size: 30px;
-    color: white;
-    padding: 20px
 }
 ul li{
     display: inline-block;
@@ -59,14 +64,16 @@ a:visited{
         margin-top: -440px;
         position: inherit
     }
+    .box h4{
+        font-size: 20px;
+    }
     ul{
     font-size: 15px;
     }
     .attribution{
-    position: absolute;
-    bottom: 25px;
-    left: -5px;
-    font-size: 15px;
+        position: absolute;
+        bottom: -5px;
+        font-size: 15px;
 }
     }
 @media (min-width:376px) and (max-width: 1440px){
