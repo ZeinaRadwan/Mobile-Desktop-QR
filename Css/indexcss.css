@@ -45,7 +45,7 @@ p{
     color: white;
     display: inline-block;
 }
-h4 ul{
+.box ul{
     display: contents;
 }
 ul{
