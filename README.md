@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qrsolution-using-flexbox-and-media-quieries-SJA4bD87c](https://www.frontendmentor.io/solutions/qrsolution-using-flexbox-and-media-quieries-SJA4bD87c)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobiledesktop-qr-solution-BkgiGbw79](https://www.frontendmentor.io/solutions/mobiledesktop-qr-solution-BkgiGbw79)
 - Live Site URL: [https://zeinaradwan.github.io/Mobile-Desktop-QR/](https://zeinaradwan.github.io/Mobile-Desktop-QR/)
 
 ## My process
