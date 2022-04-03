@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #b8d4d5;
+    background-color: #b8d4d594;
     font-family: "Outfit", sans-serif;
   }
    
@@ -31,7 +31,7 @@ p{
           height: 465px;
           padding: 25px;
           border-radius: 15px;
-          margin: 200px 561px
+          margin: 150px 561px
       }
       img{
         width: 300px;
