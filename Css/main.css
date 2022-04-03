@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #b8d4d594;
+    background-color: #b8d4d59c;
     font-family: "Outfit", sans-serif;
   }
    
@@ -28,7 +28,6 @@ p{
 @media (min-width: 376px) and (max-width: 1440px){
       .parent{
           width: 317px;
-          height: 465px;
           padding: 25px;
           border-radius: 15px;
           margin: 150px 561px
