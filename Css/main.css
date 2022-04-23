@@ -15,15 +15,31 @@ body{
         align-items: flex-end;
         flex-wrap: wrap
 }
-h3{
+.parent h1{
         Color: hsl(218, 44%, 22%);
         text-align: center
     }
-p{
+.parent p{
         text-align: center;
         font-size: 15px;
         color: hsl(220, 15%, 55%)
     }
+    .footer{
+      margin-left: 520px;
+      margin-top: 250px;
+    color: cornflowerblue;
+    font-weight: normal;
+    font-size: 14px;
+}
+  .footer a{
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding-left: 3px;
+  }
+  .footer a:visited{
+    color: blue;
+  }
     /*Large -Desktop- Screen*/
 @media (min-width: 376px) and (max-width: 1440px){
       .parent{
@@ -38,10 +54,11 @@ p{
         padding-right: 10px;
         padding-left: 10px
     }
-      h3{
+      h1{
           margin-left: 10px;
           margin-right: 10px;
-          margin-top: 10px
+          margin-top: 10px;
+          font-size: 20px;
       }
       p{
           margin-left: 15px;
@@ -65,7 +82,7 @@ p{
         padding-right: 10px;
         padding-left: 10px
     }
-      h3{
+      h1{
         margin-left: 30px;
         margin-right: 30px;
         font-size: 20px;
