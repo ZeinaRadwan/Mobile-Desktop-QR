@@ -7,7 +7,6 @@ body{
     background-color: #b8d4d59c;
     font-family: "Outfit", sans-serif;
   }
-   
 .parent{
         background-color: hsl(0, 0%, 100%);
         display: flex;
@@ -66,7 +65,7 @@ body{
           margin-top: -5px
       }
     }
-/*Mobile Screen*/
+/*Small -Mobile- Screen*/
 @media (max-width: 375px) {
       .parent{
         width: 319px;
