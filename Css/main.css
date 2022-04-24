@@ -24,14 +24,14 @@ body{
         font-size: 15px;
         color: hsl(220, 15%, 55%)
     }
-    .footer{
-      margin-left: 520px;
-      margin-top: 250px;
+.footer{
+    margin-left: 520px;
+    margin-top: 250px;
     color: cornflowerblue;
     font-weight: normal;
     font-size: 14px;
 }
-  .footer a{
+.footer a{
     color: black;
     text-transform: uppercase;
     text-decoration: none;
